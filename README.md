@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enriquerosario
+- 👋 Hi, my name is Robert E. Rosario "@enriquerosario"
 - 👀 I’m interested in desktop software and web  development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Terminal
 - 💞️ I’m looking to collaborate on Web projects
