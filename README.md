@@ -1,4 +1,4 @@
-<img src="cover ro.png"></>
+<img src="cover ro.png">
 - 👋 Hi, my name is <b>Robert E. Rosario</b> <i>"@enriquerosario"</i>
 - 💞️ I’m interested in desktop software and web  development
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Terminal
